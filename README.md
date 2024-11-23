@@ -1,0 +1,2 @@
+# SClicker
+SClicker app
