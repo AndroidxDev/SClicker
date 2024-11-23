@@ -5,5 +5,5 @@
 Скачать можно в релизах - https://github.com/AndroidxDev/SClicker/releases/tag/SClicker
 # скриншоты :
 
---
-
+![Скрн 1](Images/Screenshot_2024-11-23-15-42-54-849_com.devstudios.sclicker.jpg)
+![скрн 2](Images/Screenshot_2024-11-23-15-42-56-733_com.devstudios.sclicker.jpg)
